@@ -1,4 +1,4 @@
-require './caesar_cipher.rb'
+require './lib/caesar_cipher.rb'
 
 RSpec.describe  "#cipher" do
   context 'when words' do
